@@ -4,11 +4,11 @@
 This Android application allows users to create and manage shopping lists with integrated shop locations using Google Maps API. It's built with Kotlin, follows the MVVM architecture pattern, utilizes Retrofit for networking, and integrates Google Maps API for location selection.
 
 ## Features
-- **Add Shopping Items:** Users can add items to their shopping list.
+- **Google Maps API:** Integrated to enable location selection and mapping functionalities.
 - **Shop Location Selection:** Users can select the shop location using Google Maps.
+- **Add Shopping Items:** Users can add items to their shopping list.
 - **MVVM Architecture:** Follows Model-View-ViewModel architecture for clear separation of concerns.
 - **Retrofit:** Used for seamless networking operations to interact with a backend or API.
-- **Google Maps API:** Integrated to enable location selection and mapping functionalities.
 
 ## Installation
 To run the app locally, follow these steps:
