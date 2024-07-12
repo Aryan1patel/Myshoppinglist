@@ -1,4 +1,4 @@
-# Shopping List App
+# ShopLocate
 
 ## Overview
 This Android application allows users to create and manage shopping lists with integrated shop locations using Google Maps API. It's built with Kotlin, follows the MVVM architecture pattern, utilizes Retrofit for networking, and integrates Google Maps API for location selection.
